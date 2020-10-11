@@ -9,7 +9,7 @@ import javax.persistence.Id;
  * created by Hermann Sterling on 10/10/20
  */
 @Entity
-public class UnitOfMeasure {
+public class UnitOfMeasurement {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
